@@ -1,4 +1,5 @@
 # FeDNet-BSPC
+Official code for **FeDNet: Feature Decoupled Network for Polyp Segmentation from Endoscopy Images** Submitted to BSPC
 Code is coming soon if paper is accepted.
 
 
