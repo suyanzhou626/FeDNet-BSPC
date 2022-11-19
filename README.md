@@ -5,6 +5,9 @@ Code is coming soon if paper is accepted.
 
 
 
+## Prediction Result
+The prediction result is place at [here](https://github.com/suyanzhou626/FeDNet-BSPC/tree/main/predcit_map). Everyone can compared it with other methods.
+
 
 
 
